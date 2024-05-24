@@ -1,0 +1,14 @@
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\bin\Debug\net8.0\Aula Pratica Função.exe
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\bin\Debug\net8.0\Aula Pratica Função.deps.json
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\bin\Debug\net8.0\Aula Pratica Função.runtimeconfig.json
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\bin\Debug\net8.0\Aula Pratica Função.dll
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\bin\Debug\net8.0\Aula Pratica Função.pdb
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.AssemblyInfoInputs.cache
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.AssemblyInfo.cs
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.dll
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\refint\Aula Pratica Função.dll
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.pdb
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\Aula Pratica Função.genruntimeconfig.cache
+C:\Users\otavi\Documents\Code\CSharp\Aula Pratica Função\obj\Debug\net8.0\ref\Aula Pratica Função.dll

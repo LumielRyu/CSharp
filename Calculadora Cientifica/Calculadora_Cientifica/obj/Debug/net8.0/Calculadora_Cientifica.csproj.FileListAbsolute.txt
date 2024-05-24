@@ -1,0 +1,14 @@
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\bin\Debug\net8.0\Calculadora_Cientifica.exe
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\bin\Debug\net8.0\Calculadora_Cientifica.deps.json
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\bin\Debug\net8.0\Calculadora_Cientifica.runtimeconfig.json
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\bin\Debug\net8.0\Calculadora_Cientifica.dll
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\bin\Debug\net8.0\Calculadora_Cientifica.pdb
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.AssemblyInfoInputs.cache
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.AssemblyInfo.cs
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.dll
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\refint\Calculadora_Cientifica.dll
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.pdb
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\Calculadora_Cientifica.genruntimeconfig.cache
+C:\Users\otavi\Documents\Code\CSharp\Calculadora Cientifica\Calculadora_Cientifica\obj\Debug\net8.0\ref\Calculadora_Cientifica.dll
